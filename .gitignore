@@ -1,0 +1,54 @@
+# Environment Variables
+.env
+*.env
+
+# Python Bytecode
+*.pyc
+__pycache__/
+*py[cod]
+*$py.class
+
+
+# Virtual Environment
+blogapivenv/
+env/
+*.env
+
+# Database Files
+*.sqlite3
+*.db
+
+# Logs
+*.log
+logs/
+
+# Flask instance folder
+instance/
+config.py
+*webassets-cache
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# IDE-specific files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Python Package Files
+*.egg-info/
+*.eggs/
+dist/
+build/
+lib/
+lib64/
+parts/
+var/
+wheels/
+
+#cache
+*.cache
+
+
